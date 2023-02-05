@@ -179,7 +179,7 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url('images/couple1.JPEG');
+    background-image: url('images/car.JPEG');
     background-size: cover;
     background-position: center;
 }
@@ -318,7 +318,7 @@ a:hover{
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url('images/car.JPEG');
+    background-image: url('images/couple1.JPEG');
 }
 @media (max-width:1000px){
     .gallery{
@@ -362,7 +362,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-    background-image: url('images/car.JPEG');
+    background-image: url('images/couple1.JPEG');
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
