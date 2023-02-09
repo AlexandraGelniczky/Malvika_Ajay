@@ -3,7 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Quicksand&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Quicksand&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display&family=Quicksand&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Quicksand&display=swap');
 
 /* <===================CSS VARIABLES===================> */
 
@@ -22,7 +21,7 @@
 *{
     box-sizing: border-box;
     margin: 0;
-    font-family: 'Cinzel Decorative', serif;
+    font-family: 'Cinzel', serif;
     color: #212121;
 }
 html{
