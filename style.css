@@ -365,7 +365,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-    background-image: url('images/couple4.jpeg');
+    background-image: url('images/coupleflower.jpeg');
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
@@ -421,7 +421,7 @@ a:hover{
     display: block;
     height: 100vh;
     width: 40vw;
-    background-image: url('images/couple5.jpeg');
+    background-image: url('');
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
