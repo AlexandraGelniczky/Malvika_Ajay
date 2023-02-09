@@ -363,13 +363,21 @@ a:hover{
 /* <===================HANDS===================> */
 
 .hands{
-    height: 120vh;
-    width: 100%;
+    height: 100vh;
+    width: 100vw;
     background-image: url('images/coupleflower.jpeg');
     background-size: cover;
-    background-position-y: center;
-    background-attachment: fixed;
+    background-position: absolute;
     background-repeat: no-repeat;
+    margin-top: 0px;
+    background-attachment: fixed;
+    overflow-x: hidden
+}
+
+@media (max-width: 767px) {
+  .parallax1 {
+    background-attachment: scroll;
+  }
 }
 
     /* <===================STAY===================> */
