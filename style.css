@@ -315,7 +315,7 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url('images/car.JPEG');
+    background-image: url('images/couplefield.JPG');
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
@@ -323,7 +323,7 @@ a:hover{
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url('images/car.JPEG');
+    background-image: url('images/couplecar.jpg');
 }
 @media (max-width:1000px){
     .gallery{
