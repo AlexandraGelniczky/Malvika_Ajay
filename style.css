@@ -363,7 +363,7 @@ a:hover{
 /* <===================HANDS===================> */
 
 .hands{
-    height: 100vh;
+    height: 100%;
     width: 100vw;
     background-image: url('images/coupleflower.jpeg');
     background-size: cover;
