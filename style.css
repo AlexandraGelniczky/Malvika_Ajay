@@ -322,7 +322,7 @@ a:hover{
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url('');
+    background-image: url('images/couplecar.jpeg');
 }
 @media (max-width:1000px){
     .gallery{
