@@ -318,11 +318,11 @@ a:hover{
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url('');
+    background-image: url('images/couplecar.jpg');
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url('images/couplecar.jpg');
+    background-image: url('');
 }
 @media (max-width:1000px){
     .gallery{
