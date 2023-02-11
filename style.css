@@ -186,6 +186,7 @@ a:hover{
    background-image: url('images/hands.jpeg');
     background-size: cover;
     background-position: center;
+    border-radius: 20px;
 }
 .home-img-sm{
     display: none;
@@ -234,6 +235,7 @@ a:hover{
     width: 30vw;
     background-position: center;
     background-size: cover;
+    border-radius: 20px;
 }
 .timings{
     margin: 30px;
@@ -312,6 +314,7 @@ a:hover{
     margin: 10px;
     background-size: cover;
     background-position: center;
+    border-radius: 20px;
 }
 .gallery-img:nth-child(1){
     background-image: url('images/couplefield.JPG');
